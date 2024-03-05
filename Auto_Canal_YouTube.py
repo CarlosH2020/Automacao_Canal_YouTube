@@ -1,9 +1,8 @@
 """
-Automação do meu canal do YuoTube - Security_set
+Automação do meu canal do YuoTube 
 
 Públicação de vídeos do canal em páginas do Facebook relacionadas ao assunto.
 
-URL = https://www.youtube.com/channel/UCrjfIUShndbnJtMroKTT4gg
 """
 
 from selenium import webdriver
